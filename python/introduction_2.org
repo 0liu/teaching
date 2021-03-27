@@ -1,0 +1,89 @@
+#+TITLE: Introduction to Python II
+#+Author: Coach Jesse
+
+* About this course
+This course is for students with some Python programming experience at beginner level, covering the basics of how a computer interprets lines of code; how to write programs, evaluate their output, and revise the code; how to work with variables and their changing values; how to use built-in data types and functions
+
+This course also covers some special and advanced features of Python programming language. For example, higher order and lambda functions, unpacking and asterisk operators, keyword arguments and comprehensions. This course also introduces the basic object-oriented programming concepts, classes and objects in Python.
+
+Structurally, the course is comprised of several parts. Instruction is delivered via online video meeting. During the class, students will work on both multiple choice questions and coding problems. In between video meetings, students will work on programming puzzles closely related to knowledge taught in current week's class. Students will also complete several mini coding projects that are split into weeks.
+
+By the end of this course, you'll be able to write small programs in Python that use variables, mathematical and logical operators, functions and classes. Once a student completes this course, they will be ready to take more advanced programming courses, such as Intermediate Computer Programming I.
+
+
+* What you'll learn
+
+
+* Schedule
+
+** Week 1
+Course set up. Introduction to repl.it and Python runtime environment. How to install Python packages and play in IPython. Review skills learned in Introduction 1: variables, types, conditions, loops.
++ Homework: programming puzzles.
++ Project 1 part1.
+
+** Week 2
+The fundamentals of how computers work. What is a program? What is program code, and how program is executed in computers. Basics of computer architecture and networks. How different types of numbers and data are storage in memory.
++ Homework: programming puzzles.
++ Project 1 part 2.
+
+** Week 3
+Built-in data types and functions. list, tuple, string, dictionary, set: their properties and advanced operations.
++ Homework: programming puzzles
++ Project 2 part 1.
+
+** Week 4
+Function definition and structure review. Mathematical Operators. Adding addition, subtraction, multiplication, division, modulus, and exponents to your code, and seeing how they work with unexpected data types. Introduce the concept of operator as a function. Common functions: abs, int, bool, dir, input, len, max, min, sum, range, random numbers.
++ Homework: programming puzzles
++ Project 2 part 2.
+
+** Week 5
+Procedural Programming. The fundamental approach to program code: writing sequences of lines of code that run in order to accomplish an objective. How to continue and break loops. How to raise and catch exceptions. The advanced try-else-except-finally structure.
++ Homework: programming puzzles
++ Project 3 part 1.
+
+** Week 6
+Variables, names, scopes, files organization, modules and packages. Creating and modifying variables, tracing how their values may change as a program runs, and understanding the role of scopes, modules and packages.
++ Homework: programming puzzles.
++ Project 3 part 2.
+
+** Week 7
+Comprehensions: list comprehension, set comprehension and dictionary comprehension. What is a comprehension and how to use it. Review of Project 3.
++ Homework: programming puzzles.
++ Project 4 part 1.
+
+** Week 8
+Functions and code reuse: DRY, higher-order function, lambda function.
++ Homework: programming puzzles.
++ Project 4 part 2.
+
+** Week 9
+Special operations: unpacking, the asterisk operator: *  and **, function arguments. Review of Project 4.
++ Homework: programming puzzles.
++ Project 5 part 1.
+
+** Week 10
+Objected-oriented programming 1: Class and objects, data abstraction. Attributes and methods. Python class definition and initialization.
++ Homework: programming puzzles.
++ Project 5 part 2.
+
+** Week 11
+Objected-oriented programming 2: Inheritance and composition.
++ Homework: programming puzzles.
++ Project 5 part 3.
+
+** Week 12
+Objected-oriented programming 3: Composition. Review project 5.
++ Homework: programming puzzles.
+
+
+
+* Prerequisites (soft)
++ Interests in computer programming.
++ Elementary school math: arithmetic operations, shapes, speed, etc.
++ Basic experience in Python programming. Taking Introduction to Python I course would be perfect.
+
+* Specification
++ Length: 12 weeks
++ Effort: 2-4 hours per week
++ Level: Advanced Introduction
++ Language: English

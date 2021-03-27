@@ -1,0 +1,65 @@
+#+TITLE: Planning
+#+Author: Coach Jesse
+
+* References
+freecodecamp intermediate python https://youtu.be/HGOBQPFzWKo
+Python for kids book
+UC Berkeley CS61A Spring 2012 https://inst.eecs.berkeley.edu//~cs61a/sp12/
+
+
+* Introduction to Computer Programming with Python - II
+Course set up: Python runtime environment on repl.it
+Basics of computer architecture: Numbers and data storage in memory. What is a program? How program is executed.
+Built-in data types: list, tuple, string, dictionary, set. Their properties and advanced operations.
+Built-in functions: definition and structure review, abs, int, bool, dir, input, len, max, min, sum, range, random numbers
+Procedure programming: conditions, loops, continue and break, exceptions
+Name scopes, file organization: modules and packages
+Comprehension: list comprehension, dictionary comprehension
+Special operations: unpacking, the asterisk operator: * and **
+Functions and code reuse: DRY, higher-order function, lambda function, function arguments
+Objected-oriented programming: Class, objects, data abstraction, inheritance, composition, references
+
+Programming puzzles and mini projects:
++ Turtle drawing: rectangle, triangle, box without corners (octagon missing four sides), pitchfork
++ Giraffe shuffle
++ Tkinter and GUI programming
++ Bounce! game
++ Mr. Stick Man game
+
+* Intermediate Computer Programming I - Text processing and basic web programming using Python
+Data containers in Python standard library: namedtuple, Counter
+Advanced string and file operations
+Data serializing: text vs. binary data, pickle, JSON
+Debugging,Testing and logging
+Regular expression
+Concept of networks and Internet client and server, and web service
+Web scraping
+
+* Intermediate Computer Programming II - Advanced Python and introduction to parallel programming
+Dunder methods and operator overloading.
+Advanced functions: function as an object, closure, property methods
+Decorators: decorator function, decorator class
+Shallow vs. deep copying
+Context manager
+Map-filter-reduce paradiam
+Multithreading and multiprocessing
+
+* Intermediate Computer Programming III - Introduction to web development with Python Flask
+
+* Intermediate Computer Programming IV - Introduction to GUI application development with Qt for Python
+
+
+
+* Advanced Computer Programming I - Introduction to data structures and algorithms
+Recursion and iteration
+Algorithm's efficiency and complexity
+Advanced data structure: deque, defaultdict, heap
+Data structure basics: complexity functions, arrays, queue, binary search tree
+Iterators and generators: their concepts, definition and itertools
+
+* Advanced Computer Programming II - Objected-oriented design
+
+
+* Advanced Computer Programming III - Database and data processing
+
+* Advanced Computer Programming IV - Robot software development with ROS and Python
